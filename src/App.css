@@ -8,7 +8,7 @@ body{
 }
 
 .Login__Screen{
-    background-image: url("https://images.unsplash.com/photo-1597575732103-9f6d068cfa9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmV0ZmxpeHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60");
+    background-image: url("./Assets/NetflixImage.jpg");
     display: flex;
     flex-direction: column;
     width: 100%;
