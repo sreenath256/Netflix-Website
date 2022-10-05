@@ -8,7 +8,6 @@ body{
 }
 
 .Login__Screen{
-    background:url("C:\Users\MI\Desktop\REACT\netflix\app\public\src\Assets\NetflixImage.jpg") ;
     display: flex;
     flex-direction: column;
     width: 100%;
