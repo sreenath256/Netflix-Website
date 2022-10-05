@@ -47,7 +47,7 @@ body{
 
 .LoginScreen__Label{
     position: absolute;
-    top: 30%;
+    top: 20%;
     display: flex;
     max-width: 40rem;
     margin-left: auto;
@@ -80,7 +80,7 @@ body{
 .email{
     margin: 20px;
     padding: 20px;
-    width: 30rem;
+    width: 20rem;
     height: 7px;
     border-radius: 0;
     outline: none;
