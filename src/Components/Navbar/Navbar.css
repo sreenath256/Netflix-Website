@@ -22,14 +22,14 @@
 }
 .Sign__Out{
     background-color: #e50914;
-    left: 93rem;
+    right: 6rem;
     
     
     border: 0;
     width: 100px;
     height: 30px;
     color: #fff;
-    position: relative;
+    position: fixed;
     
     
     outline: none;
