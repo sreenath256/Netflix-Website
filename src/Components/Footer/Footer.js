@@ -44,7 +44,7 @@ function Footer() {
         <div class="row">
           <div class="col-md-8 col-sm-6 col-xs-12">
             <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by 
-         <a className='text_underline' href="#top">Scanfcode</a>.
+         <a className='text_underline' href="#top">Netflix</a>.
             </p>
           </div>
 
