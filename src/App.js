@@ -12,8 +12,8 @@ function App() {
   const getEmail=localStorage.getItem("emailData")
 
   const handleSubmit=()=>{
-    if (email.current.value=="sreenathsrp@gmail.com"){
-      localStorage.setItem("emailData","sreenathsrp@gmail.com")
+    if (email.current.value){
+      localStorage.setItem("emailData","true")
     }
   }
 
